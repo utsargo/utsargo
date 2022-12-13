@@ -2,13 +2,15 @@
 
 <h1 align='center'>Hi, I am Utsargo</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsargo-roy//)](https://www.linkedin.com/in/utsargo-roy/)
+
 ### A little bit about me
 
 ```javascript
-const eliVillalejos = {
+const utsargoRoy = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  stack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Material UI],
+  stack: [JavaScript, React, Redux, Python, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Material UI],
   hobbies: [Theatre, Recitation, Poetry],
 }
 ```

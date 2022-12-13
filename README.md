@@ -1,6 +1,17 @@
 <img src="./img/git-banner.png" width="100%" height="auto">
 
-<h1 align='center'>Hi, I am Utsargo</h1> 👋
+<h1 align='center'>Hi, I am Utsargo</h1>
+
+### A little bit about me
+
+```javascript
+const eliVillalejos = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "him"],
+  stack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Material UI],
+  hobbies: [Theatre, Recitation, Poetry],
+}
+```
 
 <!--
 **utsargo/utsargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

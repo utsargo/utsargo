@@ -1,5 +1,6 @@
 <img src="./img/git-banner.png" width="100%" height="auto">
-### Hi there 👋
+
+<h1 align='center'>Hi, I am Utsargo</h1> 👋
 
 <!--
 **utsargo/utsargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

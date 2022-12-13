@@ -2,7 +2,7 @@
 
 <h1 align='center'>Hi, I am Utsargo</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsargo-roy//)](https://www.linkedin.com/in/utsargo-roy/)
+[![Linkedin Badge](https://img.shields.io/badge/-Utsargo%20Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsargo-roy//)](https://www.linkedin.com/in/utsargo-roy/)
 
 ### A little bit about me
 

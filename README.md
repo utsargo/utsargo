@@ -12,15 +12,18 @@
 const utsargoRoy = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  stack: [JavaScript, React, Redux, Python, Ruby on Rails,
-          HTML/CSS, Semantic UI, Bootstrap, Material UI],
-  hobbies: [Theatre, Recitation, Poetry]
-}
+  stack: [ JavaScript, React, Redux, Python, Ruby on Rails,
+    HTML/CSS, Semantic UI, Bootstrap, Material UI
+  ],
+  hobbies: [Theatre, Recitation, Poetry],
+};
 ```
 
 ### My portfolio
 
 www.portfolio.utsargo.tech
+
+![Utsargo's github stats](https://github-readme-stats.vercel.app/api?username=utsargo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **utsargo/utsargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

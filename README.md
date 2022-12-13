@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Utsargo%20Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsargo-roy//)](https://www.linkedin.com/in/utsargo-roy/)
 [![Twitter Badge](https://img.shields.io/badge/-@royutsargo_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@royutsargo)](https://twitter.com/@royutsargo)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royutsargo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:royutsargo@gmail.com)
 
 ### A little bit about me
 
